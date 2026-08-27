@@ -18,7 +18,8 @@ JavaScript
 
 -------------------------------------------------------
 📂 Project Structure
-<img width="50" height="50" alt="Screenshot 2026-08-27 191128" src="https://github.com/user-attachments/assets/9c77e13d-a2fa-476b-89c9-f033569baf0a" />
+
+<img width="100" height="100" alt="Screenshot 2026-08-27 191128" src="https://github.com/user-attachments/assets/9c77e13d-a2fa-476b-89c9-f033569baf0a" />
 
 -----------------------------------------------------
 ⚙️ How It Works
