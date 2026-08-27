@@ -19,16 +19,10 @@ JavaScript
 -------------------------------------------------------
 📂 Project Structure
 
-<img width="100" height="100" alt="Screenshot 2026-08-27 191128" src="https://github.com/user-attachments/assets/9c77e13d-a2fa-476b-89c9-f033569baf0a" />
+<img width="150" height="150" alt="Screenshot 2026-08-27 191128" src="https://github.com/user-attachments/assets/9c77e13d-a2fa-476b-89c9-f033569baf0a" />
 
 -----------------------------------------------------
-⚙️ How It Works
-Enter a task in the input box.
-Click the ADD button.
-The task will be added to the list with a sequence number.
-Click CLEAR to remove all tasks.
 
-------------------------------------------------------
 📸 Example
 📝 To-Do List
 
