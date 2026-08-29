@@ -37,6 +37,31 @@ JavaScript
 
 This project was created to practice the fundamentals of JavaScript, including arrays, functions, DOM manipulation, and event handling.
 
-👩‍💻 Author
+--------------------------------------------------------------------------------
+
+# 💻 GitHub Profile Finder
+
+A minimal, highly responsive web application designed to fetch and display GitHub user profiles instantly using the official GitHub REST API.
+
+---
+
+
+## 📈 Project Outcome
+The application successfully delivers a robust, real-time tool with the following outcomes:
+* **Instant Profile Insights:** Renders critical profile data including avatar images, public repository counts, follower counts, and following metrics in under a second.
+* **Direct External Navigation:** Includes a dynamic anchor link pointing directly to the target user's official GitHub page for deeper exploration.
+
+---
+
+## 🏗️ Structure
+The project follows a clean, single-file architecture designed for maximum portability and fast loading times:
+
+github-profile-finder/
+└── github.html      # Monolithic core file containing layout, styling, and logic
+    
+
+---
+
+## ✍️ Author
 
 **Jayasree N**
